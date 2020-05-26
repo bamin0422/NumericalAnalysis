@@ -1,4 +1,8 @@
+<<<<<<< HEAD:Lecture_1/homework1/Homework_20171621mindaein.md
 # 3/19 수치해석 과제1 ---- 20171621 민대인
+=======
+# 3/19 수치해석 과제1 ---- 20171621민대인
+>>>>>>> 81c24add5e356181a7994c89384efa1c29777c6b:homework1/Homework_20171621mindaein.md
 
 ---
 
